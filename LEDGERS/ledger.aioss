@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: MOVIES_MEDIA/NAVIDROME
+# records: 5
+# head: 0d6f0a5da758daba0308c77862807f35e4d586dc54ed1055bd392459877983ff
+{"digest": "660c1067e9c458cc1368ef122114c8d79b68a39a387be347d8f323d0da753d99", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "d5b841f229e25e3b02d0f8945cf774601f7254f54257aa3f53c264b2e5a4c431", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:53:38Z"}
+{"digest": "79b5ec675d53cfb3876adf245b0986a8a1615982e543e94edb9a75023efe96d0", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "593bce92a96ae1b309c030d130cf5d05c5f6709751a45c19c9c4b1b8fecb333a", "prev": "660c1067e9c458cc1368ef122114c8d79b68a39a387be347d8f323d0da753d99", "seq": 1, "ts": "2026-10-09T05:53:38Z"}
+{"digest": "d070bcf59ea36ea19ec471eb9e40edaafed865e0bc014319d11b05882968e3bc", "kind": "readme", "path": "README.md", "payload_sha3": "b8c0f764e2378279dd04b635675f55445e760420d6419e17689d3c2aefdaf079", "prev": "79b5ec675d53cfb3876adf245b0986a8a1615982e543e94edb9a75023efe96d0", "seq": 2, "ts": "2026-10-09T05:53:38Z"}
+{"digest": "4d9bf8ba90d94b72d39d27724293094b9f6830fcbe82e506e874ced018a9abc9", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "01a1d1da8a54e632b58114199e173ebaa311f4df4d873ac0633efa9891c69ddc", "prev": "d070bcf59ea36ea19ec471eb9e40edaafed865e0bc014319d11b05882968e3bc", "seq": 3, "ts": "2026-10-09T05:53:38Z"}
+{"digest": "0d6f0a5da758daba0308c77862807f35e4d586dc54ed1055bd392459877983ff", "kind": "notice", "path": "NOTICE", "payload_sha3": "60f12df624fd1cc26622445d72cecceb0438a0d60f8a1a910319dc6f7d233884", "prev": "4d9bf8ba90d94b72d39d27724293094b9f6830fcbe82e506e874ced018a9abc9", "seq": 4, "ts": "2026-10-09T05:53:38Z"}
